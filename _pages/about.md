@@ -17,4 +17,4 @@ I am seeking internship opportunities as a Ph.D. researcher or software engineer
 
 <br>
 
-<img src="/files/Horizontal_Logo-RGB_Raster-BLUE_ORANGE.png" alt="UF Logo" width="300">
+<img src="/images/Horizontal_Logo-RGB_Raster-BLUE_ORANGE.png" alt="UF Logo" width="300">
