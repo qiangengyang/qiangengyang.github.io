@@ -14,7 +14,7 @@ _Any publications currently under review without a preprint provided will be ava
     <i>Mass Communication and Society</i>, 2023
     <ul>
       <li>Subject: the effects of sentiment labels and state-affiliation labels on the recognition and behavior of users on Twitter.</li>
-      <li>Methods: user study, controlled experiments, ANOVA test</li>
+      <li>Methods: user study, controlled experiments, sentiment analysis, ANOVA tests</li>
       <li>Takeaways:<br>
         <ul>
           <li>State-affiliation labels and negative sentiment labels are more likely to cause negative effects on young people.</li>
