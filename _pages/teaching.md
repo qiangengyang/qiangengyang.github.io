@@ -11,7 +11,7 @@ author_profile: true
     Department of Electrical and Computer Engineering, University of Florida, Spring 2023 & Spring 2024
       <ul>
         <li>Topics: C++, data structure, algorithms</li>
-        <li><a href="https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL4837_Prog_EE_2_Ruchkin_Spring_2023.pdf">Syllabus</a></li>
+        <li><a href="https://www.ece.ufl.edu/wp-content/uploads/syllabi/Spring2023/EEL4837_Prog_EE_2_Ruchkin_Spring_2023.pdf">Syllabus - Spring 2023</a></li>
       </ul>
   </li>
 </ul>
