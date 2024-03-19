@@ -31,10 +31,10 @@ I found a bit of my talent in learning languages, and I would like to learn as m
 I like reading widely and casually while relaxing myself. Although I do not limit the content I read, magic realism and life management are what I read the most. There are numerous great books, so the breadth of reading is more important than depth unless the content is important enough to slow down, think, and take a note. 
 
 Here are some books I would like to recommend (update occasionally):
-* [_One Hundred Years of Solitude_](https://www.britannica.com/topic/One-Hundred-Years-of-Solitude) by [Gabriel García Márquez](https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/)
-* [_Cold Mountain_](https://en.wikipedia.org/wiki/Cold_Mountain_(novel)) by [Charles Frazier](https://en.wikipedia.org/wiki/Charles_Frazier)
-* [_The Republic_](https://www.britannica.com/topic/The-Republic) by [Plato](https://plato.stanford.edu/entries/plato/)
-* [_The Social Animal_](https://www.goodreads.com/en/book/show/203968) by [Elliot Aronson](https://aronson.socialpsychology.org/) and [Joshua Aronson](https://steinhardt.nyu.edu/people/joshua-aronson)
+* [_One Hundred Years of Solitude_](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude?from_search=true&from_srp=true&qid=njmy3UEmg2&rank=1) by [Gabriel García Márquez](https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/)
+* [_Cold Mountain_](https://www.goodreads.com/book/show/10920.Cold_Mountain?from_search=true&from_srp=true&qid=q16uoIKTIQ&rank=1) by [Charles Frazier](https://en.wikipedia.org/wiki/Charles_Frazier)
+* [_The Republic_](https://www.goodreads.com/book/show/30289.The_Republic?from_search=true&from_srp=true&qid=FpvdVLP8mT&rank=1) by [Plato](https://plato.stanford.edu/entries/plato/)
+* [_The Social Animal_](https://www.goodreads.com/book/show/203968.The_Social_Animal?from_search=true&from_srp=true&qid=srp5Mnnwmq&rank=2) by [Elliot Aronson](https://aronson.socialpsychology.org/) and [Joshua Aronson](https://steinhardt.nyu.edu/people/joshua-aronson)
 * [_The Almanack of Naval Ravikant: A Guide to Wealth and Happiness_](https://www.navalmanack.com/) by [Eric Jorgenson](https://www.goodreads.com/author/show/4029970.Eric_Jorgenson)
 
 Some of my favorite writers include (update occasionally):
@@ -72,7 +72,7 @@ I like various physical sports, such as running, swimming, and playing basketbal
 
 
 ## My Philosophy ##
-My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my own worldview.
+My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my worldview.
 
 We can neither change the past nor predict the future, because every success requires the satisfaction of multiple conditions, including but not limited to hard work. If we tried our best yet still could not make it, just let it go. The world is full of randomness, so there must be something not for us and something else waiting for us. Even if we were able to accurately predict the future, such as who we would meet, when we would get a new job, and how much money we would make, life would become so boring because it is many surprising teeny-tiny things that make this journey full of excitement. 
 
