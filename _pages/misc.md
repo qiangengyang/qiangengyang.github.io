@@ -7,11 +7,11 @@ author_profile: true
 Sharing and communication are important as we all need emotional support, consonance, and discussion to shape and become who we are. Here, I would like to share more about me.
 
 
-## My Hobbies ##
+## 🐱 My Hobbies ##
 In my free time, I have a lot of hobbies as my brain food.  
 
 
-### Language ###
+### 🔠 Language ###
 I am a big fan of languages. Culture represents a group of human beings, while language represents a type of culture. Research shows that learning a foreign language is beneficial for mental activities. Getting the hang of a language can help us understand more about our fellow human beings rather than live in a world filled with misunderstandings and biases and explore more amazing things created by us, the little speck in the universe. Language is the key to the door of a new world. 
 
 Here are the languages I can use confidently:
@@ -27,7 +27,7 @@ I found a bit of my talent in learning languages, and I would like to learn as m
 * [**Russian**](https://simple.wikipedia.org/wiki/Russian_language): My maternal grandfather could speak Russian when he was young. I am interested in the fruitful Russian culture. 
 
 
-### Reading ###
+### 📖 Reading ###
 I like reading widely and casually while relaxing myself. Although I do not limit the content I read, magic realism and life management are what I read the most. There are numerous great books, so the breadth of reading is more important than depth unless the content is important enough to slow down, think, and take a note. 
 
 Here are some books I would like to recommend (update occasionally):
@@ -45,7 +45,7 @@ Some of my favorite writers include (update occasionally):
 * [Yasunari Kawabata](https://www.nobelprize.org/prizes/literature/1968/kawabata/biographical/), Japanese novelist and short story writer, 1968 Nobel laureate in literature
 
 
-### Traveling ###
+### ✈️ Traveling ###
 Reading keeps me in touch with the world, but the best way to know more about the world is to travel, see, communicate, and feel by myself. It could be expensive, but it is worthwhile if applicable. 
 Here are some places I have visited and highly recommend (update occasionally):
 * [Boston](https://www.meetboston.com/), MA, United States
@@ -55,7 +55,7 @@ Here are some places I have visited and highly recommend (update occasionally):
 * [Malacca](https://www.melaka-tourism.com/), Malaysia
 
 
-### Music ###
+### 🎵 Music ###
 Music is the universal language of mankind. I learned keyboard (thus a bit of piano as well) and [erhu](https://en.wikipedia.org/wiki/Erhu) at a young age. I like classical, pop, indie, and country music. Here are some of my favorite musicians (update occasionally):
 * [Frédéric Chopin](https://www.youtube.com/@chopininstitute), Polish composer and virtuoso pianist
 * [Lang Lang](https://www.youtube.com/watch?v=j0tK9F_6g2w), Chinese pianist
@@ -66,12 +66,12 @@ Music is the universal language of mankind. I learned keyboard (thus a bit of pi
 
 
 
-### Sports ###
+### 🏃 Sports ###
 I like various physical sports, such as running, swimming, and playing basketball and table tennis. As for intellectual sports, I like playing [Go](https://www.britannica.com/topic/go-game), one of the oldest and the most complicated board games. You have probably heard of it because of [AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago) developed by Google DeepMind in recent years.  
 
 
 
-## My Philosophy ##
+## ✨ My Philosophy ##
 My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism). Although I have no religious belief as I regard religion as another way to explain and appreciate the world, I am interested in the core ideas of any religion and absorb some of them into my worldview.
 
 We can neither change the past nor predict the future, because every success requires the satisfaction of multiple conditions, including but not limited to hard work. If we tried our best yet still could not make it, just let it go. The world is full of randomness, so there must be something not for us and something else waiting for us. Even if we were able to accurately predict the future, such as who we would meet, when we would get a new job, and how much money we would make, life would become so boring because it is many surprising teeny-tiny things that make this journey full of excitement. 
@@ -84,7 +84,7 @@ Just like what unpredictability means, my thoughts will also develop as my life 
 
 Here are some related ideas that shaped my views:
 * [_The Butterfly Dream_](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22), a metaphor in [_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://www.britannica.com/biography/Zhuangzi)
-* [Special relative](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Dr. Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
+* [Special relativity](https://en.wikipedia.org/wiki/Special_relativity) and [general relativity](https://en.wikipedia.org/wiki/General_relativity) by [Dr. Albert Einstein](https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/)
 * [_The Origin of the Universe_](https://www.hawking.org.uk/in-words/lectures/the-origin-of-the-universe), a lecture by [Dr. Stephen Hawking](https://www.hawking.org.uk/biography)
 * [Karma](https://en.wikipedia.org/wiki/Karma)
 * [_Memento Mori_](https://www.imdb.com/title/tt6181962/), a documentary
