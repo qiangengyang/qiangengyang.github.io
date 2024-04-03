@@ -72,7 +72,7 @@ I like various physical sports, such as running, swimming, and playing basketbal
 
 
 ## ✨ My Philosophy ##
-My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism). Although I only regard religion as another way to understand the world, I am interested in the ideas of any religion and absorb some of them into my worldview.
+My views are heavily influenced by [Daoism](https://plato.stanford.edu/entries/daoism/), [Chinese Buddism](https://www.pewresearch.org/short-reads/2023/09/21/6-facts-about-buddhism-in-china/), and [Confusianism](https://www.britannica.com/topic/Confucianism). Although I regard religion as just another way to understand the world, I am interested in the ideas of any religion and absorb some of them into my worldview. 
 
 We can neither change the past nor predict the future as every success requires the satisfaction of multiple conditions, and hard work is only one of them. If we tried our best yet still could not make it, just let it go. The world is full of randomness, so there must be something not for us and something else waiting for us. Even if we were able to predict the future, such as who we would meet, when we would get a new job, and how much money we would make, life becomes boring to me because it is many surprising teeny-tiny things that make this journey full of excitement. 
 
