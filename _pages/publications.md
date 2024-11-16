@@ -17,7 +17,7 @@ _Any publications currently under review without a preprint provided will be ava
  
   <li>(Under Review) [J1] <b>Qiangeng Yang</b>, Yoo Jin Chung, Juliana Fernandes, Daniela Oliveira<br>
     <b>Does Social Media Labeling Help with Content Moderation? An Analysis of Sentiment Labels</b><br>
-    <i>Communication Research and Practice</i>, 2024
+    <i>Communication Research and Practice</i>
   </li>
 </ul>
 
