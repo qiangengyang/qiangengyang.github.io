@@ -10,9 +10,9 @@ redirect_from:
 
 **About**
 
-Welcome! I am a Ph.D. student in [Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](https://www.ufl.edu/) and a research assistant at [Florida Institute for National Security (FINS)](https://fins.institute.ufl.edu/) under [Dr. Damon Woodard](https://damonwoodard.com/) and previously under [Dr. Daniela Seabra Oliveira](https://danielaseabraoliveira.com/). My current research interests lie in usable security and social engineering, especially malicious activities online, such as misinformation, phishing, toxic comments, gender bias, and malware (stalkerware and ransomware). My research aims to understand the role human factors play under the hood and develop technical solutions to protect vulnerable users, such as children, teenagers, and elders, from getting harmed online. It involves interdisciplinary knowledge, including computer science and engineering, mass communication, psychology, law, and politics, but mainly focuses on technology. I enjoy stepping out of my comfort zone to explore the unknown.
+Welcome! I am a Ph.D. student in [Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](https://www.ufl.edu/) and a research assistant at [Florida Institute for National Security (FINS)](https://fins.institute.ufl.edu/) under [Dr. Damon Woodard](https://damonwoodard.com/). My research is focused on leveraging generative AI and natural language processing (NLP) to combat malicious online activities, including misinformation, phishing, toxic comments, gender bias, and malware. I investigate the human factors driving these threats and develop technical solutions to protect vulnerable users, such as children, teenagers, and the elderly. My work integrates interdisciplinary knowledge from computer science, engineering, mass communication, psychology, law, and politics. I am passionate about pushing the boundaries of my expertise to tackle new and complex challenges.
 
-I am interested in internship opportunities as a Ph.D. researcher. You are welcome to let me know of any opportunities via email or LinkedIn!
+I am interested in doing a research internship. You are welcome to let me know of any opportunities via email or LinkedIn!
 
 
 <br>
