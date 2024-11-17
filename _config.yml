@@ -90,7 +90,7 @@ author:
   location         : "Gainesville, FL"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tkkqIFYAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=tkkqIFYAAAAJ&hl=en"
   email            : "&#x71;&#x2E;&#x79;&#x61;&#x6E;&#x67;&#x20;&#x61;&#x74;&#x20;&#x75;&#x66;&#x6C;&#x20;&#x64;&#x6F;&#x74;&#x20;&#x65;&#x64;&#x75;"
   researchgate     :  
   uri              :
@@ -107,7 +107,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "qiangeng-yang"
-  orcid            : "https://orcid.org/0000-0002-1365-3209"
+  orcid            : # "https://orcid.org/0000-0002-1365-3209"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
