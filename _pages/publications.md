@@ -11,7 +11,7 @@ _Any publications currently under review without a preprint provided will be ava
 <ul>
   <li> [C1] <b>Qiangeng Yang</b>, Tess Christensen, Shlok Gilda, Juliana Fernandes, Daniela Oliveira, Ronald Wilson, Damon Woodard<br>
     <b>Are Fact-Checking Tools Helpful? An Exploration of the Usability of Google Fact Check</b><br>
-    <i>5th EAI International Conference on Data and Information in Online Environments (EAI DIONE 2024)</i>
+    <i>The 5th EAI International Conference on Data and Information in Online Environments (EAI DIONE 2024)</i>
   </li>
  
   <li>(Under Review) [J1] <b>Qiangeng Yang</b>, Yoo Jin Chung, Juliana Fernandes, Daniela Oliveira<br>
