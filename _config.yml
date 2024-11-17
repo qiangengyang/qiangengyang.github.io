@@ -61,7 +61,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -89,10 +89,10 @@ author:
   bio              : "Ph.D. Student in Electrical and Computer Engineering, University of Florida"
   location         : "Gainesville, FL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=tkkqIFYAAAAJ&hl=en"
   email            : "&#x71;&#x2E;&#x79;&#x61;&#x6E;&#x67;&#x20;&#x61;&#x74;&#x20;&#x75;&#x66;&#x6C;&#x20;&#x64;&#x6F;&#x74;&#x20;&#x65;&#x64;&#x75;"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -104,16 +104,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "qiangeng-yang"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1365-3209"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
