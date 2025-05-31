@@ -14,6 +14,7 @@ _Any publications currently under review without a preprint provided will be ava
     <i>5th EAI International Conference on Data and Information in Online Environments (EAI DIONE
 2024)</i>
   </li>
+</ul>
 
 
 {% if author.googlescholar %}
