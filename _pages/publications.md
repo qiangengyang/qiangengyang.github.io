@@ -14,12 +14,6 @@ _Any publications currently under review without a preprint provided will be ava
     <i>5th EAI International Conference on Data and Information in Online Environments (EAI DIONE
 2024)</i>
   </li>
- 
-  <li>(Under Review) [J1] <b>Qiangeng Yang</b>, Yoo Jin Chung, Juliana Fernandes, Daniela Oliveira<br>
-    <b>Does Social Media Labeling Help with Content Moderation? An Analysis of Sentiment Labels</b><br>
-    <i>Communication Research and Practice</i>
-  </li>
-</ul>
 
 
 {% if author.googlescholar %}
