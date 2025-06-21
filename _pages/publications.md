@@ -1,6 +1,5 @@
 ---
 title: ""
-permalink: /publications/
 author_profile: true
 ---
 **J: Journal; C: Conference**
